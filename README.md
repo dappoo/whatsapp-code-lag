@@ -5,6 +5,7 @@ thanks to : Daffa_Arif , Jackpot 0day exploit
 instalasi :
 
 cukup ketik
+
 $chmod +x termux-whatsapp-lag
 
 $./termux-whatsapp-lag
